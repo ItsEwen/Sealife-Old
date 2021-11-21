@@ -1,0 +1,3 @@
+Config = {}
+
+-- Ewen La Pute
